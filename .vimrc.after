@@ -1,0 +1,5 @@
+if has("gui_gtk2")
+  set guifont=Inconsolata\ XL\ 11,Inconsolata\ 15,Monaco\ 12
+else
+  set guifont=Inconsolata\ XL:h11,Inconsolata:h20,Monaco:h17
+end
