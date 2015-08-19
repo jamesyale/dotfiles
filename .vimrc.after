@@ -3,3 +3,4 @@ if has("gui_gtk2")
 else
   set guifont=Inconsolata\ XL:h11,Inconsolata:h20,Monaco:h17
 end
+set wrap
